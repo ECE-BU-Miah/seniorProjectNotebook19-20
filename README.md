@@ -10,3 +10,6 @@ Kickoff meeting (Date: 9/13/2019)
 ---
 
 Meeting minutes 
+
+
+Next meeting (Date: 9/18/2019 @ 3:30 PM)
