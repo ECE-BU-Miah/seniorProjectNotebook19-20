@@ -13,3 +13,4 @@ Meeting minutes
 
 
 Next meeting (Date: 9/18/2019 @ 3:30 PM)
+---
