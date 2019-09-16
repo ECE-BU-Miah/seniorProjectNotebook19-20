@@ -25,6 +25,10 @@ Our goal for this semester is to code the previous years projects, then next sem
 
 Action: Read Previous years final report from page 1 to pg 37 then prepare a presention based on that and appendix e pg 71 to 74 present on those pages as well. The presentation will be a 30 minute presentation.
 
+Date 9/15/2019
+Tyler took notes on pages 1-10 of previous years report
+
+
 Next meeting (Date: 9/18/2019 @ 3:30 PM)
 ---
 Work on project statement project
