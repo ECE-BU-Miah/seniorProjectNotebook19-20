@@ -38,6 +38,7 @@ Date 9/19/20
 Christopher and tyler spent half of lab time adding slides to the presentation for 9/20/19 and the other half of the lab finalizing resumes for the job fair taking place that current day.
 
 [Overleaf v2 tutorial1](https://www.youtube.com/watch?v=rLWT0z6yvrk)
+
 [Overleaf v2 tutorial2](https://www.youtube.com/watch?v=JwXQb25cpqA)
 
 
