@@ -37,13 +37,20 @@ Date 9/19/20
 ----
 Christopher and tyler spent half of lab time adding slides to the presentation for 9/20/19 and the other half of the lab finalizing resumes for the job fair taking place that current day.
 
+(Date: 9/20/2019 @ 3:30 PM)
+---
+Tyler and Christopher presented there presentation 
+Dr. Miah shared with us previous years documentation project we are unable to download, delete, or copy an files only allowed to view
+Things to do before next meeting:
+Complete project statement in latex on overleaf
+we need to read areo user manual 
+look into areo lab guide and implement experiment 4
+left meeting at 4:32 Pm
+
 [Overleaf v2 tutorial1](https://www.youtube.com/watch?v=rLWT0z6yvrk)
 
 [Overleaf v2 tutorial2](https://www.youtube.com/watch?v=JwXQb25cpqA)
 
 
-
-Next meeting (Date: 9/20/2019 @ 3:30 PM)
+Next Meeting (9/27/19)
 ---
-Work on project statement project
-
