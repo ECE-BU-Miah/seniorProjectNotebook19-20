@@ -37,6 +37,9 @@ Date 9/19/20
 ----
 Christopher and tyler spent half of lab time adding slides to the presentation for 9/20/19 and the other half of the lab finalizing resumes for the job fair taking place that current day.
 
+[Overleaf v2 tutorial1](https://www.youtube.com/watch?v=rLWT0z6yvrk)
+
+
 Next meeting (Date: 9/20/2019 @ 3:30 PM)
 ---
 Work on project statement project
