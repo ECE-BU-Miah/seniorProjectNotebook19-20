@@ -39,17 +39,21 @@ Christopher and tyler spent half of lab time adding slides to the presentation f
 
 (Date: 9/20/2019 @ 3:30 PM)
 ---
-Tyler and Christopher presented there presentation 
-Dr. Miah shared with us previous years documentation project we are unable to download, delete, or copy an files only allowed to view
-Things to do before next meeting:
-Complete project statement in latex on overleaf
-we need to read areo user manual 
-look into areo lab guide and implement experiment 4
-left meeting at 4:32 Pm
+Tyler and Christopher presented there presentation today.
+Dr. Miah shared with us previous years project documentation we are unable to download, delete, or copy an files only allowed to view.
+The Things to do before next meeting:
+Complete project statement in latex on overleaf,
+we need to read areo user manual, and  
+look into areo lab guide and implement experiment 4.
+we left the meeting at 4:32 Pm
 
 [Overleaf v2 tutorial1](https://www.youtube.com/watch?v=rLWT0z6yvrk)
 
 [Overleaf v2 tutorial2](https://www.youtube.com/watch?v=JwXQb25cpqA)
+
+(Date: 9/23/2019)
+---
+Tyler and Chris read the user manual for the helecopters to perpare for working on lab 4 tommmrow.
 
 
 Next Meeting (9/27/19)
