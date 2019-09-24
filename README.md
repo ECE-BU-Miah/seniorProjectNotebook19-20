@@ -56,6 +56,9 @@ we left the meeting at 4:32 Pm
 Tyler and Chris read the user manual for the helecopters to perpare for working on lab 4 tommmrow.
 We plan on working on the project proposal after we implement lab 4.
 
+(Date: 9/24/19)
+---
+Christopher and tyler both worked to get the simulink models needed for lab 4 done. We got the models 80% done the last thing we need to add is the Helecopter module's. We were unable to find out where they are located during the lab time. We left the lab around 10:50 am.
 
 Next Meeting (9/27/19)
 ---
