@@ -54,6 +54,7 @@ we left the meeting at 4:32 Pm
 (Date: 9/23/2019)
 ---
 Tyler and Chris read the user manual for the helecopters to perpare for working on lab 4 tommmrow.
+We plan on working on the project proposal after we implement lab 4.
 
 
 Next Meeting (9/27/19)
