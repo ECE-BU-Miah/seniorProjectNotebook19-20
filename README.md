@@ -60,5 +60,9 @@ We plan on working on the project proposal after we implement lab 4.
 ---
 Christopher and tyler both worked to get the simulink models needed for lab 4 done. We got the models 80% done the last thing we need to add is the Helecopter module's. We were unable to find out where they are located during the lab time. We left the lab around 10:50 am.
 
+(Date: 9/25/19)
+---
+Tyler and Christopher have agreed to finish the project proposal today so that Dr. Miah has time to give us feedback that we can implement tommorow and have a finalized copy ready for friday.
+
 Next Meeting (9/27/19)
 ---
