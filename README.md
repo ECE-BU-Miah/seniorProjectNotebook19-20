@@ -62,7 +62,7 @@ Christopher and tyler both worked to get the simulink models needed for lab 4 do
 
 (Date: 9/25/19)
 ---
-Tyler and Christopher have agreed to finish the project proposal today so that Dr. Miah has time to give us feedback that we can implement tommorow and have a finalized copy ready for friday.
+Tyler and Christopher have agreed to finish the project proposal today so that Dr. Miah has time to give us feedback. We finished at 6:31pm and are going to send it to Dr.Miah
 
 Next Meeting (9/27/19)
 ---
