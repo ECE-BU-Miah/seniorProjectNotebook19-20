@@ -73,10 +73,10 @@ During our lab time we designed our simulink diagram based on the reference file
 (Date: 10/4/19)
 ---
 During this lab time we edited and fixed our previously mentioned simulink diagram and we solved this issue by making all necessary edits in Matlab 2017a which has the Quarc software we needed to finish our drawings.
+![snip6](https://user-images.githubusercontent.com/55299289/66241113-e8304700-e6c3-11e9-9729-a122336f19b8.PNG)
+![snip1](https://user-images.githubusercontent.com/55299289/66241103-e23a6600-e6c3-11e9-87ed-7d812985fc70.PNG)
 ![snip2](https://user-images.githubusercontent.com/55299289/66241100-e1a1cf80-e6c3-11e9-8e88-448ef9b7a156.PNG)
 ![snip3](https://user-images.githubusercontent.com/55299289/66241101-e1a1cf80-e6c3-11e9-9f5d-0f85874a156c.PNG)
 ![snip4](https://user-images.githubusercontent.com/55299289/66241102-e23a6600-e6c3-11e9-9b1c-6cf51addada0.PNG)
-![snip1](https://user-images.githubusercontent.com/55299289/66241103-e23a6600-e6c3-11e9-87ed-7d812985fc70.PNG)
-![snip6](https://user-images.githubusercontent.com/55299289/66241113-e8304700-e6c3-11e9-9729-a122336f19b8.PNG)
 
 After we finished the first simulink model and got it fully functional we began the secound simulink model based on the file q_areo_2dof_lqr_control. We got this similink model around 85% complete the last part we need to add is the Quarc mdoelules which we have not been able to find yet. 
