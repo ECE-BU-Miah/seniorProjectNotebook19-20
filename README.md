@@ -67,5 +67,9 @@ Tyler and Christopher have agreed to finish the project proposal today so that D
 (Date: 10/1/19)
 ---
 During our lab time we designed our simulink diagram based on the reference file s_aero_2dof_lqr_control. We were slowed down by issues surrounding the installed Quarc files. The Quarc modules we needed to complete the s_aero_2dof_lqr_control model were not found in the current version of simulink we were working with, which was 2018. 
-![GitHub Logo](This PC/Downloads/githubimages/snip5.png)
-Format: ![Alt Text](url)
+![snip5](https://user-images.githubusercontent.com/48564969/66240967-88d23700-e6c3-11e9-8941-350aa78b5022.PNG)
+
+
+(Date: 10/4/19)
+---
+During this lab time we edited and fixed our previously mentioned simulink diagram and we solved this issue by making all necessary edits in Matlab 2017a which has the Quarc software we needed to finish our drawings
