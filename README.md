@@ -64,5 +64,8 @@ Christopher and tyler both worked to get the simulink models needed for lab 4 do
 ---
 Tyler and Christopher have agreed to finish the project proposal today so that Dr. Miah has time to give us feedback. We finished at 6:31pm and are going to send it to Dr.Miah
 
-Next Meeting (9/27/19)
+(Date: 10/1/19)
 ---
+During our lab time we designed our simulink diagram based on the reference file s_aero_2dof_lqr_control. We were slowed down by issues surrounding the installed Quarc files. The Quarc modules we needed to complete the s_aero_2dof_lqr_control model were not found in the current version of simulink we were working with, which was 2018. 
+![GitHub Logo](This PC/Downloads/githubimages/snip5.png)
+Format: ![Alt Text](url)
