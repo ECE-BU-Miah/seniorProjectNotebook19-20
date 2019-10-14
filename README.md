@@ -71,7 +71,7 @@ During our lab time we designed our simulink diagram based on the reference file
 ![snip5](https://user-images.githubusercontent.com/48564969/66240967-88d23700-e6c3-11e9-8941-350aa78b5022.PNG)
 
 ---
-
+The Drawing shown above shows our Simulink drawing s_aero_2dof_lqr_control model. We are using this drawing to find the control gain value K in our matlab script.
 (Date: 10/4/19)
 ---
 During this lab time we edited and fixed our previously mentioned simulink diagram and we solved this issue by making all necessary edits in Matlab 2017a which has the Quarc software we needed to finish our drawings.
