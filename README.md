@@ -107,4 +107,5 @@ After we finished the first simulink model and got it fully functional we began 
 
 (Date: 10/10/2019)
 ---
+Today we completed the Quarc Quick Start Guide and managed to get the 2-dof helicopters moving and in the video labeled as 20191010_102427_1[1].mp4 we demonstrate the movement of the helicopters. The video is attached to the project above.
 <video src="20191010_102427_1[1].mp4" width="320" height="200" controls preload></video>
