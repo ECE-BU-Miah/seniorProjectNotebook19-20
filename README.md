@@ -70,7 +70,6 @@ During our lab time we designed our simulink diagram based on the reference file
 
 ![snip5](https://user-images.githubusercontent.com/48564969/66240967-88d23700-e6c3-11e9-8941-350aa78b5022.PNG)
 
----
 The Drawing shown above shows our Simulink drawing s_aero_2dof_lqr_control model. We are using this drawing to find the control gain value K in our matlab script.
 (Date: 10/4/19)
 ---
@@ -78,9 +77,11 @@ During this lab time we edited and fixed our previously mentioned simulink diagr
 
 ![snip6](https://user-images.githubusercontent.com/55299289/66241113-e8304700-e6c3-11e9-9729-a122336f19b8.PNG)
 ---
+The Drawing shown above shows our simulink drawing named q_aero_2dof_lqr_control and it is used to enable the USB interface for us to connect to the Quanser Aero.
 
 ![snip1](https://user-images.githubusercontent.com/55299289/66241103-e23a6600-e6c3-11e9-87ed-7d812985fc70.PNG)
 ---
+
 
 ![snip2](https://user-images.githubusercontent.com/55299289/66241100-e1a1cf80-e6c3-11e9-8e88-448ef9b7a156.PNG)
 ---
