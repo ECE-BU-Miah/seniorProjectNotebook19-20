@@ -72,6 +72,7 @@ During our lab time we designed our simulink diagram based on the reference file
 
 
 The Drawing shown above shows our Simulink drawing s_aero_2dof_lqr_control model. We are using this drawing to find the control gain value K in our matlab script.
+Figure 1
 
 (Date: 10/4/19)
 ---
@@ -80,18 +81,29 @@ During this lab time we edited and fixed our previously mentioned simulink diagr
 ![snip6](https://user-images.githubusercontent.com/55299289/66241113-e8304700-e6c3-11e9-9729-a122336f19b8.PNG)
 ---
 The Drawing shown above shows our simulink drawing named q_aero_2dof_lqr_control and it is used to enable the USB interface for us to connect to the Quanser Aero.
+Figure 2
 
 ![snip1](https://user-images.githubusercontent.com/55299289/66241103-e23a6600-e6c3-11e9-87ed-7d812985fc70.PNG)
 ---
-
+The Figure shown above shows the pitch position as the control system runs and how it changes pitch when in use.
+Figure 3
 
 ![snip2](https://user-images.githubusercontent.com/55299289/66241100-e1a1cf80-e6c3-11e9-8e88-448ef9b7a156.PNG)
 ---
+The Figure shown aboves shows the yaw position as the control system runs and how it changes when in use.
+Figure 4
 
 ![snip3](https://user-images.githubusercontent.com/55299289/66241101-e1a1cf80-e6c3-11e9-9f5d-0f85874a156c.PNG)
 ---
+The Figure shown above shows the voltage applied to the yaw motor as the simulink model runs and how the voltage needs to be applied.
+Figure 5
 
 ![snip4](https://user-images.githubusercontent.com/55299289/66241102-e23a6600-e6c3-11e9-9b1c-6cf51addada0.PNG)
 ---
+The Figure show above shows the voltage applied to the pitch motor as the simulink model runs and how the voltage is applied to the pitch motor in a live system.
+Figure 6
 
 After we finished the first simulink model and got it fully functional we began the secound simulink model based on the file q_areo_2dof_lqr_control. We got this similink model around 85% complete the last part we need to add is the Quarc mdoelules which we have not been able to find yet. 
+
+(Date: 10/10/2019)
+---
