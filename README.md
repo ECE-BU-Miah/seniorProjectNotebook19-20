@@ -107,3 +107,4 @@ After we finished the first simulink model and got it fully functional we began 
 
 (Date: 10/10/2019)
 ---
+<video src="20191010_102427[1].mp4" width="320" height="200" controls preload></video>
