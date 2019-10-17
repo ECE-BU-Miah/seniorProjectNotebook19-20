@@ -109,3 +109,7 @@ After we finished the first simulink model and got it fully functional we began 
 ---
 Today we completed the Quarc Quick Start Guide and managed to get the 2-dof helicopters moving and in the video labeled as 20191010_102427_1[1].mp4 we demonstrate the movement of the helicopters. The video is attached to the project above.
 <video src="20191010_102427_1[1].mp4" width="320" height="200" controls preload></video>
+
+(Date: 10/16/19) Meeting
+---
+We first went over any progress we got done over break which was adding to the github descriptions of the screenshots we got from the simulink models. Dr. Miah wants us to work on fixing our Mathematical Model of 2-DOF helicopter document as soon as possible. Our task for our next lab time is to implemient the state feedback control lab and get the helicopters moving agian. 
