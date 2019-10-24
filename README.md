@@ -102,7 +102,8 @@ Figure 5
 ---
 The Figure show above shows the voltage applied to the pitch motor as the simulink model runs and how the voltage is applied to the pitch motor in a live system.
 Figure 6
-
+(Date: 10/3/2019)
+---
 After we finished the first simulink model and got it fully functional we began the secound simulink model based on the file q_aero_2dof_lqr_control. We got this similink model around 85% complete the last part we need to add is the Quarc mdoelules which we have not been able to find yet. 
 (Date: 10/8/2019) Tuesday Lab
 ---
