@@ -25,19 +25,19 @@ Our goal for this semester is to code the previous years projects, then next sem
 
 Action: Read Previous years final report from page 1 to pg 37 then prepare a presention based on that and appendix e pg 71 to 74 present on those pages as well. The presentation will be a 30 minute presentation.
 
-Date 9/15/2019
-----
+(Date 9/15/2019)
+---
 Tyler took notes on pages 1-10 of previous years report
 
-Date 9/17/19
-----
+(Date 9/17/19) Tuesday Lab
+---
 Christopher and tyler worked on understanding last years project progress while working on setting up presentation for 9/20/19 senior project meeting.
 
-Date 9/19/20
-----
+(Date 9/19/20) Thursday Lab
+---
 Christopher and tyler spent half of lab time adding slides to the presentation for 9/20/19 and the other half of the lab finalizing resumes for the job fair taking place that current day.
 
-(Date: 9/20/2019 @ 3:30 PM)
+(Date: 9/20/2019 @ 3:30 PM) Weekly Meeting
 ---
 Tyler and Christopher presented there presentation today.
 Dr. Miah shared with us previous years project documentation we are unable to download, delete, or copy an files only allowed to view.
@@ -51,20 +51,20 @@ we left the meeting at 4:32 Pm
 
 [Overleaf v2 tutorial2](https://www.youtube.com/watch?v=JwXQb25cpqA)
 
-(Date: 9/23/2019)
+(Date: 9/23/2019 )
 ---
 Tyler and Chris read the user manual for the helecopters to perpare for working on lab 4 tommmrow.
 We plan on working on the project proposal after we implement lab 4.
 
-(Date: 9/24/19)
+(Date: 9/24/19) Thursday Lab
 ---
 Christopher and tyler both worked to get the simulink models needed for lab 4 done. We got the models 80% done the last thing we need to add is the Helecopter module's. We were unable to find out where they are located during the lab time. We left the lab around 10:50 am.
 
-(Date: 9/25/19)
+(Date: 9/25/19) Weekly Meeting
 ---
 Tyler and Christopher have agreed to finish the project proposal today so that Dr. Miah has time to give us feedback. We finished at 6:31pm and are going to send it to Dr.Miah
 
-(Date: 10/1/19)
+(Date: 10/1/19) Tuesday Lab
 ---
 During our lab time we designed our simulink diagram based on the reference file s_aero_2dof_lqr_control. We were slowed down by issues surrounding the installed Quarc files. The Quarc modules we needed to complete the s_aero_2dof_lqr_control model were not found in the current version of simulink we were working with, which was 2018.
 
@@ -74,7 +74,7 @@ During our lab time we designed our simulink diagram based on the reference file
 The Drawing shown above shows our Simulink drawing s_aero_2dof_lqr_control model. We are using this drawing to find the control gain value K in our matlab script.
 Figure 1
 
-(Date: 10/4/19)
+(Date: 10/3/19) Thursday Lab
 ---
 During this lab time we edited and fixed our previously mentioned simulink diagram and we solved this issue by making all necessary edits in Matlab 2017a which has the Quarc software we needed to finish our drawings.
 
@@ -105,11 +105,15 @@ Figure 6
 
 After we finished the first simulink model and got it fully functional we began the secound simulink model based on the file q_areo_2dof_lqr_control. We got this similink model around 85% complete the last part we need to add is the Quarc mdoelules which we have not been able to find yet. 
 
-(Date: 10/10/2019)
+(Date: 10/10/2019) Thursday Lab
 ---
 Today we completed the Quarc Quick Start Guide and managed to get the 2-dof helicopters moving and in the video labeled as 20191010_102427_1[1].mp4 we demonstrate the movement of the helicopters. The video is attached to the project above.
 <video src="20191010_102427_1[1].mp4" width="320" height="200" controls preload></video>
 
-(Date: 10/16/19) Meeting
+(Date: 10/16/19) Weekly Meeting
 ---
 We first went over any progress we got done over break which was adding to the github descriptions of the screenshots we got from the simulink models. Dr. Miah wants us to work on fixing our Mathematical Model of 2-DOF helicopter document as soon as possible. Our task for our next lab time is to implemient the state feedback control lab and get the helicopters moving agian. 
+
+(Date: 10/23/19) Weekly Meeting
+---
+We first discussed our progress from last week, which was mostly additions to our project report. We then discussed our plan for our lab time this week, Dr Miah wants us in lab to create the State feedback Control simulink model from scratch without copying any modules from previous referencable material. Dr Miah also wants us to add him to our finalized project report that is due on 10/24/2019 at 11:55 PM.
