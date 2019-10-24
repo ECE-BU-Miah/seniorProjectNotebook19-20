@@ -103,17 +103,37 @@ Figure 5
 The Figure show above shows the voltage applied to the pitch motor as the simulink model runs and how the voltage is applied to the pitch motor in a live system.
 Figure 6
 
-After we finished the first simulink model and got it fully functional we began the secound simulink model based on the file q_areo_2dof_lqr_control. We got this similink model around 85% complete the last part we need to add is the Quarc mdoelules which we have not been able to find yet. 
+After we finished the first simulink model and got it fully functional we began the secound simulink model based on the file q_aero_2dof_lqr_control. We got this similink model around 85% complete the last part we need to add is the Quarc mdoelules which we have not been able to find yet. 
+(Date: 10/8/2019) Tuesday Lab
+---
+Today we worked on getting the State feedback Control Simulink model named q_aero_2dof_lqr_control we weren't ultimately able to get the simulink model to connect to the connected Quanser Aero, we believe the problem to be that in our current version of matlab we cannot open an older reference file's subsystem which has an integral part to connecting to the quanser aero, we talked with Dr. Miah and discuessed the possibility of emailing the previous year's senior project group that worked on this project to try and resolve this issue.
+
+(Date: 10/9/2019) Weekly Meeting
+---
+In this meeting we discussed the trouble we ran into trying to get the state feedback lqr control and how we should remedy the situation. Dr. Miah told us to ultimately email the previous years group to ask for their assistance to find the source code we need to get previously mentioned lab functioning. Dr. Miah also asked us to look into the Quarc Quick Start Guide and get that functioning in tommorows lab instead of continuing to waste time on the current lab.
 
 (Date: 10/10/2019) Thursday Lab
 ---
 Today we completed the Quarc Quick Start Guide and managed to get the 2-dof helicopters moving and in the video labeled as 20191010_102427_1[1].mp4 we demonstrate the movement of the helicopters. The video is attached to the project above.
 <video src="20191010_102427_1[1].mp4" width="320" height="200" controls preload></video>
 
-(Date: 10/16/19) Weekly Meeting
+
+(Date: 10/16/2019) Weekly Meeting
 ---
 We first went over any progress we got done over break which was adding to the github descriptions of the screenshots we got from the simulink models. Dr. Miah wants us to work on fixing our Mathematical Model of 2-DOF helicopter document as soon as possible. Our task for our next lab time is to implemient the state feedback control lab and get the helicopters moving agian. 
 
-(Date: 10/23/19) Weekly Meeting
+(Date: 10/17/2019) Thursday Lab
+---
+Today we finally got the simulink model of state feedback control of 2-DOF LQR lab functioning and managed to get video of the Quanser Aero changing pitch and yaw at desired increments functioning in a live environment. We managed to get this done after the previous year's senior project group responded to our email telling us where a very helpful file was located.
+
+(Date: 10/22/2019) Tuesday Lab
+---
+Today we worked on remaking the state feedback control of 2-DOF Helicopters using the LQR algorithm simulink model with our own parameters in place to better understand the USB interface connecting the computer to the Aero. We ran into some simulation and build errors slowing our progress and had to remedy those which took up most of our lab time unfortunately.
+
+(Date: 10/23/2019) Weekly Meeting
 ---
 We first discussed our progress from last week, which was mostly additions to our project report. We then discussed our plan for our lab time this week, Dr Miah wants us in lab to create the State feedback Control simulink model from scratch without copying any modules from previous referencable material. Dr Miah also wants us to add him to our finalized project report that is due on 10/24/2019 at 11:55 PM.
+
+(Date: 10/24/2019) Thursday Lab
+---
+Today Tyler coded the simulink model named q_aero_2dof_lqr_control from scratch doing what Dr. Miah asked of us in the previous meeting. We also edited the gain and saturation parameters in the simulink model to alter the Aero's movement to better understand the way the device operates. In a meeting with Dr. Miah we discussed our learning goals moving forward and he mentioned that he wants us to ultimately re-code this lab from scratch without looking at old referenceable material. 
