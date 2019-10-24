@@ -99,10 +99,11 @@ The Figure shown above shows the voltage applied to the yaw motor as the simulin
 Figure 5
 
 ![snip4](https://user-images.githubusercontent.com/55299289/66241102-e23a6600-e6c3-11e9-9b1c-6cf51addada0.PNG)
----
+
 The Figure show above shows the voltage applied to the pitch motor as the simulink model runs and how the voltage is applied to the pitch motor in a live system.
 Figure 6
-(Date: 10/3/2019)
+
+(Date: 10/3/2019) Thursday Lab
 ---
 After we finished the first simulink model and got it fully functional we began the secound simulink model based on the file q_aero_2dof_lqr_control. We got this similink model around 85% complete the last part we need to add is the Quarc mdoelules which we have not been able to find yet. 
 (Date: 10/8/2019) Tuesday Lab
