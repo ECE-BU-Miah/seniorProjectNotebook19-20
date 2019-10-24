@@ -105,7 +105,9 @@ Figure 6
 
 (Date: 10/3/2019) Thursday Lab
 ---
+
 After we finished the first simulink model and got it fully functional we began the secound simulink model based on the file q_aero_2dof_lqr_control. We got this similink model around 85% complete the last part we need to add is the Quarc mdoelules which we have not been able to find yet. 
+
 (Date: 10/8/2019) Tuesday Lab
 ---
 Today we worked on getting the State feedback Control Simulink model named q_aero_2dof_lqr_control we weren't ultimately able to get the simulink model to connect to the connected Quanser Aero, we believe the problem to be that in our current version of matlab we cannot open an older reference file's subsystem which has an integral part to connecting to the quanser aero, we talked with Dr. Miah and discuessed the possibility of emailing the previous year's senior project group that worked on this project to try and resolve this issue.
