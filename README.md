@@ -156,3 +156,7 @@ Today Dr. Miah had us meet in the lab. We first talked about our progress on und
 (Date: 11/26/19) Tuesday Lab
 ---
 Today Tyler and Christopher worked on having the LQI_USB_implementation simulink model run properly. We needed to change the Gain peramerters so that it could run correctly with out code. we had to take out the signal generators that we originally had in the model from last week on thursday. We wanted to see if we could change the gain block to a number and have the helicopter move to the desired state. If we could do this then adding the signal generators in later wont be to much of a hasle. After some time we were succesful on being able to run the model properly and change the angles to the desired states we entered. 
+
+Kickoff meeting (Date: 1/24/2019)
+---
+This was the first meeting of the new semester. The objective of this meet was to set up the weekly meeting time that would be best for everyone as well as decide the 2 weekly lab times. Dr.Miah was happy with our work from last semester and spent some time giving us feedback to improve our work for this semester. We need to work on better organizing our docmentation for the lab work we do and keep the github update the github as much as possible. The next weekly meeting Dr.Miah has asked us to prepare a recap of what was done last semester and our plans for the lab work that will be done in the upcomming weeks. 
