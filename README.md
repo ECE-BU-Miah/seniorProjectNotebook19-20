@@ -157,6 +157,10 @@ Today Dr. Miah had us meet in the lab. We first talked about our progress on und
 ---
 Today Tyler and Christopher worked on having the LQI_USB_implementation simulink model run properly. We needed to change the Gain peramerters so that it could run correctly with out code. we had to take out the signal generators that we originally had in the model from last week on thursday. We wanted to see if we could change the gain block to a number and have the helicopter move to the desired state. If we could do this then adding the signal generators in later wont be to much of a hasle. After some time we were succesful on being able to run the model properly and change the angles to the desired states we entered. 
 
-Kickoff meeting (Date: 1/24/2019)
+Kickoff meeting (Date: 1/24/2020)
 ---
 This was the first meeting of the new semester. The objective of this meet was to set up the weekly meeting time that would be best for everyone as well as decide the 2 weekly lab times. Dr.Miah was happy with our work from last semester and spent some time giving us feedback to improve our work for this semester. We need to work on better organizing our docmentation for the lab work we do and keep the github update the github as much as possible. The next weekly meeting Dr.Miah has asked us to prepare a recap of what was done last semester and our plans for the lab work that will be done in the upcomming weeks. 
+
+(Date: 1/28/20) Tuesday Lab
+---
+This is our first offical lab meeting for this spring semester. We meet in the senior project lab at 1:00 pm. We had discovered that our quanser areo PC's had not been set up yet. We had ran into Christopher Mattus on the way to lab and he was busy with some people so we decided to give him some time before asking him about an update on the setup of our quanser areo PC's. After about 45 minutes we went to his office and asked him politly for an update on the progress of setting up our PC's. He had told us that he hasnt started yet but could set them up right now during our lab time. For the rest of the lab Christopher, Tyler and Christopher Smagacz worked on setting up two benches in the senior project lab that would be the stations we will using for our senior project this spring semester.
