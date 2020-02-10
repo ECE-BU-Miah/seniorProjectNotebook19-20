@@ -167,4 +167,12 @@ This is our first offical lab meeting for this spring semester. We meet in the s
 
 (Date: 1/30/20) Thursday Lab 
 ---
-Christopher and Tyler meet in the senior project lab at 1:00 PM. We had our quanser areo PC's set up from last lab time so we were able to get started on our raspberry pie implementation. Before we got to work on the implementation we had to recive both the SD card we will be using and the raspberry pie from our senior project advisor Dr. Miah. After this was done we went back to senior project lab and worked on getting an operating system installed onto the SD card. The first problem we ran into is making sure were are attempting to download the correct operating system. We sent an email to ken and glen asking what operating system would be best with this project but havent recived an email back 
+Christopher and Tyler meet in the senior project lab at 1:00 PM. We had our quanser areo PC's set up from last lab time so we were able to get started on our raspberry pie implementation. Before we got to work on the implementation we had to recive both the SD card we will be using and the raspberry pie from our senior project advisor Dr. Miah. After this was done we went back to senior project lab and worked on getting an operating system installed onto the SD card. The first problem we ran into is making sure were are attempting to download the correct operating system. We sent an email to ken and glen asking what operating system would be best with this project but havent recived an email back. We did some reasearch on our own and found an operating system that we feel comfortable with and flashed it to the raspberry pie.
+
+(Date: 2/4/20) Tuesday Lab
+---
+Christopher and Tyler meet in the senior project lab at 1:00 PM. Last lab we had accomplished flashing our raspberry pie with an operating system. So we continued to work on raspberry pie implementation but we are missing a cable that will allow us to trasnfer data to the raspberry pie. We went around the ECE deparment asking professors and searching labs to see if we could find a cable that could satify this problem but we were unsuccesful. With this we had not be able to make progress on reimplementing the raspberry pie part of the last years senior project. Christopher and tyler spent the rest of the senior project lab doing research into app design and the types of modules that will have to be used when comunicating the quanser with our raspberry pie.
+
+(Date: 2/6/20)
+---
+
