@@ -188,3 +188,4 @@ Christopher and Tyler met in the senior project lab at 1:00 PM. We are still wor
 (Week of Febuary 16th - 22nd)
 ---
 We decided to make this weeks lab work apart of the same update. We spent both lab days working on the same situation. The raspberry pi Christopher and tyler were working on was still having trouble being able to run the code from matlab. The new error we began to run into was print_cmd.c we used a lot of time doing some google research on the error to try and find a solution but we came up short due to this error being outdated since we are running on matlab 2017. 
+![error_mail](https://user-images.githubusercontent.com/55299289/75483475-891de800-596c-11ea-8770-c2baec233b26.PNG)
