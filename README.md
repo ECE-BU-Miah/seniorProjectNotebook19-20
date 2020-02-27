@@ -181,6 +181,10 @@ Christopher and Tyler met in the senior project lab at 1:00 PM. Today we started
 ---
 Christopher and Tyler met in the senior project lab at 1:00 PM. Today we continued working on the preivous year's Raspberry Pi implementation. We made a big leap forward in this lab and got the putty based interfacing functional between the desktop and our Raspberry Pi. Next we will work on getting the necessary matlab files uploaded to the Quanser Aero. We also encountered a small problem. The problem we encountered is that in order to connect to the Raspberry Pi through SSH in putty we have to have the desktop and the Raspberry Pi connected through an ethernet cord. The reason this is a problem is because neither my laptop or Christophers has a built in ethernet port. A reasonable step forward following this hurdle is to purchase a USB to Ethernet extenstion cord. This way we use our laptops and use the work station provided for us in the Senior Lab.
 
-(Date: 2/13/2o) Thursday Lab
+(Date: 2/13/20) Thursday Lab
 ---
 Christopher and Tyler met in the senior project lab at 1:00 PM. We are still working on the Raspberry Pi implementation and being able to have our matlab simulink models on the Raspberry pi. We have been looking at the errors we have been encoutering when running the program on matlab and have realized we need to install a couple of packages onto the raspberry pi. The first one is a C cross complier so that our Raspberry Pi can read our code. We also need to download Cmake so that we can have support files for make files that are writen in C. We believe we have been able to download the correct files for this but right now we have to test them. Most of lab time was spent looking online for the correct download and executing it on the raspberry pi. At the end of lab we still ran into the same errors on the computer.
+
+(Week of Febuary 16th - 22nd)
+---
+We decided to make this weeks lab work apart of the same update. We spent both lab days working on the same situation. The raspberry pi Christopher and tyler were working on was still having trouble being able to run the code from matlab. The new error we began to run into was print_cmd.c we used a lot of time doing some google research on the error to try and find a solution but we came up short due to this error being outdated since we are running on matlab 2017. 
