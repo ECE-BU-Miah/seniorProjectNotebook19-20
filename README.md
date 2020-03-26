@@ -193,4 +193,8 @@ We decided to make this weeks lab work apart of the same update. We spent both l
 
 The error is caused by attempting to run the program on the desktop we used for USB implementation. We got around this problem by realizing that we dont need to run this program on the desktop becasuse our objective is to run the program on the raspberry pi. Our senior project advisor Dr. Miah showed up to lab to help us with some of our problems. Dr. Miah informed us we should wrok with the Raspberry Pi that the previous years senior project group used because it should already have an operating system and the nessasary support packages we need to run the simulink models. We switched out the Raspberry Pi we currently have with one of the pervious years and began working on trying to resolve more of our errors. We began to run into building errors due to the configuration perameters on the program from the previous years not being correct.
 
+(Date: 3/26/2020) Video Chat Test Meeting
+---
+Today myself, Christopher, Dr Miah, and the previous year's senior project students had a meeting on a remote video chat software to discuss the path of the senior project going forward with the current state of the countries health. Some new goals were set during this meeting time including the new ways we are going to continue the senior capstone project. We will be looking into applying and simulating the optimal control algorithms known as Linear Quadratic Gaussian control scheme,as well as the neural network based ADP control algorithm. During this meeting we also set new weekly meeting times on the video chat program.
+
 
